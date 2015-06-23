@@ -29,7 +29,7 @@
 .nav-bar ul li {  list-style: none;
                     display: inline-block;
                     float: left;
-                    line-height: 44px;
+                    line-height: 43px;
                     color:#9B9D9F ;
                     font-size: 11px;
                     width: 60px;
@@ -48,6 +48,7 @@
 }
 
 .logo {margin: 0;
+
         float: left;}
 
 
