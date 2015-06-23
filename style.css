@@ -9,16 +9,16 @@
 
 .topbar { background: #2A2E31;
            width: 100%;
-           height: 43px;
+           height: 42px;
 
           }
 
 .topbox { width: 991px;
-           height: 43px;
-           padding: 0 10px 0 10px;
+           height: 42px;
            margin: 0 auto;
            background-color: #2A2E31;
-           position: relative;
+           clear: both;
+
 }
 
 .social-media {margin-right: 200px;}
@@ -31,38 +31,42 @@
 .nav-bar ul li {  list-style: none;
                     display: inline-block;
                     float: left;
-                    line-height: 43px;
+                    line-height: 42px;
                     color:#9B9D9F ;
                     font-size: 11px;
                     width: 60px;
                     margin-left:20px;
 }
 
-.mainbar {  background: #404549;
+.mainbar { background-color: #404549;
            width: 100%;
            height: 57px;}
 
 .topbox2 { width: 991px;
-           height: 55px;
-           padding: 0 10px 0 10px;
+           height: 57px;
            margin: 0 auto;
            background-color: #404549;
-           position: relative;
 }
 
-.logo {margin: 0;
+.logo  {background-color: #404549;
+        float: left;
+        width: 200px;
+        height: 57px;}
 
-        float: left;}
+
+.main-nav { background-color: #404549;
+              width: auto;
+              height: 57px;
+              float: left;}
 
 
 .main-nav ul li { list-style: none;
                     display: inline-block;
-                    float: left;
-                    line-height: 55px;
+                    line-height: 57px;
                     color:#DADDDF ;
                     font-size: 11px;
-                    font-family: ariel;
                     width: 100px;
+                    height: 57px;
                     text-align: center;}
 
 .searchbar {/* Rectangle 1: */
@@ -134,7 +138,7 @@
 .title p {text-align: left;
           padding-left:7px;
           line-height: 25px;
-          font-size: 5px;
+          font-size: 12px;
           color: #5F625F;}
 
 .artical img {float: left;
@@ -148,7 +152,7 @@
 .date p {text-align: left;
           padding-left:7px;
           line-height: 30px;
-          font-size: 0.2em;
+          font-size: 10px;
           color: #5F625F;}
 
 
@@ -159,7 +163,7 @@
 
 .bra-text p { text-align: left;
                 padding:0 7px 0 7px;
-                font-size:1.5px;
+                font-size:10px;
                 font-family: Ariel;
                 color: #797E79; }
 
@@ -179,7 +183,7 @@
 
 .more p {text-align: center;
           line-height: 20px;
-          font-size: 2px;
+          font-size: 10px;
           color: #fff;}
 
 
@@ -202,11 +206,11 @@
               border-radius: 19px;}
 
 .r-artical {padding: 5px;
-              font-size:6px;}
+              font-size:10px;}
 .r-artical img  {float: left;}
 
 .r-artical p { float: left;
-                margin: 5px;
+                margin: 12px;
                 }
 
 .bottom {width: 100%;
