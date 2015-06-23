@@ -21,7 +21,9 @@
 
 }
 
-.social-media {margin-right: 200px;}
+.social-media { width: auto;
+                  margin-right: 200px;
+                  float: left;}
 
 .social-media ul li {  list-style: none;
                           display: inline-block;
