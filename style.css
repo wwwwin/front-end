@@ -17,6 +17,7 @@
            height: 43px;
            padding: 0 10px 0 10px;
            margin: 0 auto;
+           float: left;
            background-color: #2A2E31;
 }
 
@@ -27,7 +28,7 @@
 
 .nav-bar ul li {  list-style: none;
                     display: inline-block;
-                    float: right;
+                    float: left;
                     line-height: 44px;
                     color:#9B9D9F ;
                     font-size: 11px;
@@ -52,7 +53,7 @@
 .main-nav ul li { list-style: none;
                     display: inline-block;
                     float: left;
-                    line-height: 57px;
+                    line-height: 55px;
                     color:#DADDDF ;
                     font-size: 11px;
                     font-family: ariel;
@@ -61,10 +62,10 @@
 
 .searchbar {/* Rectangle 1: */
               margin: 15px 0 0 0;
-              width: 135px;
+              width: 100px;
               height: 21px;
               line-height: 55px;
-              float: right;
+              float: left;
               background: #FFFFFF;
               border: 1px solid #979797;
               border-radius: 19px;}
