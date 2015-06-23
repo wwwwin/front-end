@@ -9,12 +9,12 @@
 
 .topbar { background: #2A2E31;
            width: 100%;
-           height: 42px;
+           height: 44px;
 
           }
 
 .topbox { width: 991px;
-           height: 42px;
+           height: 44px;
            margin: 0 auto;
            background-color: #2A2E31;
            clear: both;
@@ -22,7 +22,7 @@
 }
 
 .social-media { width: auto;
-                  margin-right: 200px;
+                  margin-right: 400px;
                   float: left;}
 
 .social-media ul li {  list-style: none;
@@ -33,7 +33,7 @@
 .nav-bar ul li {  list-style: none;
                     display: inline-block;
                     float: left;
-                    line-height: 42px;
+                    line-height: 44px;
                     color:#9B9D9F ;
                     font-size: 11px;
                     width: 60px;
@@ -50,16 +50,16 @@
            background-color: #404549;
 }
 
-.logo  {background-color: #404549;
+.logo img  {background-color: #404549;
         float: left;
-        width: 200px;
-        height: 57px;}
+        height: 57px;
+        }
 
 
 .main-nav { background-color: #404549;
-              width: auto;
               height: 57px;
-              float: left;}
+              float: left;
+              }
 
 
 .main-nav ul li { list-style: none;
@@ -72,7 +72,7 @@
                     text-align: center;}
 
 .searchbar {/* Rectangle 1: */
-              margin: 15px 0 0 0;
+              margin: 15px 20px 0 0;
               width: 130px;
               height: 21px;
               line-height: 55px;
