@@ -1,0 +1,209 @@
+@charset "UTF-8";
+/**
+ *
+ * @authors Your Name (you@example.org)
+ * @date    2015-06-23 05:06:59
+ * @version $Id$
+ */
+
+
+.topbar { background: #2A2E31;
+           width: 100%;
+           height: 43px;
+
+          }
+
+.topbox { width: 991px;
+           height: 43px;
+           padding: 0 10px 0 10px;
+           margin: 0 auto;
+           background-color: #2A2E31;
+}
+
+.social-media ul li {  list-style: none;
+                          display: inline-block;
+                          float: left;
+}
+
+.nav-bar ul li {  list-style: none;
+                    display: inline-block;
+                    float: right;
+                    line-height: 44px;
+                    color:#9B9D9F ;
+                    font-size: 11px;
+                    width: 80px;
+}
+
+.mainbar {  background: #404549;
+           width: 100%;
+           height: 57px;}
+
+.topbox2 { width: 991px;
+           height: 55px;
+           padding: 0 10px 0 10px;
+           margin: 0 auto;
+           background-color: #404549;
+}
+
+.logo {margin: 1px 0 0 0;
+        float: left;}
+
+
+.main-nav ul li { list-style: none;
+                    display: inline-block;
+                    float: left;
+                    line-height: 57px;
+                    color:#DADDDF ;
+                    font-size: 11px;
+                    font-family: ariel;
+                    width: 120px;
+                    text-align: center;}
+
+.searchbar {/* Rectangle 1: */
+              margin: 15px 0 0 0;
+              width: 135px;
+              height: 21px;
+              line-height: 55px;
+              float: right;
+              background: #FFFFFF;
+              border: 1px solid #979797;
+              border-radius: 19px;}
+
+.searchbar img {float: right;
+                  margin: 0 10px 0 0;}
+
+
+.adarea { width: 991px;
+           height: 383px;
+           padding: 0 ;
+           margin: 0 auto;
+           background-color: #404549;}
+
+.mainbanner {width: 551px;
+              height: 383px;
+              background-color: #fff;
+              float: left;}
+
+
+.rightbanner {width: 440px;
+                height: 383px;
+                background-color: #fff;
+                float: left;}
+
+
+.mainbanner img { float: left;
+                    margin: 20px 10px 0 0; }
+
+.rightbanner img { float: left;
+                      margin: 20px 0 0 20px;}
+
+
+.main-content {width: 991px;
+                 height: 100%;
+                margin: 0 auto;
+                background-color: ##FF974B;}
+
+.main-left {  width: 706px;
+           height: 100%;
+           margin: 0 auto;
+           float: left;
+           background-color: #fff;}
+
+
+.artical {width: 209px;
+          height: 354px;
+          margin: 0 10px 10px 0 ;
+          float: left;
+          background-color: #fff;
+          border-style: solid;
+          border-width: 1px;
+          padding: 7px;
+          border-color: #CDCFD8;}
+
+.title {height: 35px;
+        width: 209px;
+        float: left;
+        }
+
+.title p {text-align: left;
+          padding-left:7px;
+          line-height: 25px;
+          font-size: 5px;
+          color: #5F625F;}
+
+.artical img {float: left;
+                margin: 0 7px;}
+
+.date {height: 30px;
+        width: 209px;
+        float: left;
+        }
+
+.date p {text-align: left;
+          padding-left:7px;
+          line-height: 30px;
+          font-size: 0.2em;
+          color: #5F625F;}
+
+
+.bra-text {height: 100px;
+            width: 209px;
+            float: left;
+            border-bottom: solid 1px #C9C3C6}
+
+.bra-text p { text-align: left;
+                padding:0 7px 0 7px;
+                font-size:1.5px;
+                font-family: Ariel;
+                color: #797E79; }
+
+
+.function-area  {height: 25px;
+            width: 209px;
+            float: left;
+            margin-top: 10px;}
+
+.more {height: 20px;
+            width: 70px;
+            float: right;
+            background-color: #67A44C;}
+
+.function-area img { margin: 0}
+
+
+.more p {text-align: center;
+          line-height: 20px;
+          font-size: 2px;
+          color: #fff;}
+
+
+.main-right {background-color: #fff;
+              border: 1px solid #CDCFD8;
+              padding: 5px;
+              width: 268px;
+              height: 100%;
+              float: left;}
+
+.catchonfb { margin: 15px auto;
+              width: 135px;
+              height: 30px;
+              line-height: 30px;
+              float: center;
+              color: #505050;
+              background: #FFFFFF;
+              text-align: center;
+              border: 1px solid #CDCFD8;
+              border-radius: 19px;}
+
+.r-artical {padding: 5px;
+              font-size:6px;}
+.r-artical img  {float: left;}
+
+.r-artical p { float: left;
+                margin: 5px;
+                }
+
+.bottom {width: 100%;
+}
+
+
