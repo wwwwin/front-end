@@ -18,6 +18,7 @@
            padding: 0 10px 0 10px;
            margin: 0 auto;
            background-color: #2A2E31;
+           position: relative;
 }
 
 .social-media ul li {  list-style: none;
@@ -43,6 +44,7 @@
            padding: 0 10px 0 10px;
            margin: 0 auto;
            background-color: #404549;
+           position: relative;
 }
 
 .logo {margin: 0;
