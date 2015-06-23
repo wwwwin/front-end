@@ -21,6 +21,8 @@
            position: relative;
 }
 
+.social-media {margin-right: 200px;}
+
 .social-media ul li {  list-style: none;
                           display: inline-block;
                           float: left;
@@ -33,7 +35,7 @@
                     color:#9B9D9F ;
                     font-size: 11px;
                     width: 60px;
-                    margin-left:200px;
+                    margin-left:20px;
 }
 
 .mainbar {  background: #404549;
