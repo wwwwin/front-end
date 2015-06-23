@@ -33,6 +33,7 @@
                     color:#9B9D9F ;
                     font-size: 11px;
                     width: 60px;
+                    margin-left:200px;
 }
 
 .mainbar {  background: #404549;
@@ -59,12 +60,12 @@
                     color:#DADDDF ;
                     font-size: 11px;
                     font-family: ariel;
-                    width: 100px;
+                    width: 130px;
                     text-align: center;}
 
 .searchbar {/* Rectangle 1: */
               margin: 15px 0 0 0;
-              width: 100px;
+              width: 130px;
               height: 21px;
               line-height: 55px;
               float: left;
