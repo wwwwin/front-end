@@ -9,8 +9,7 @@
 
 .topbar { background: #2A2E31;
            width: 100%;
-           height: 44px;
-
+          height: 47px;
           }
 
 .topbox { width: 991px;
@@ -42,17 +41,17 @@
 
 .mainbar { background-color: #404549;
            width: 100%;
-           height: 57px;}
+}
 
 .topbox2 { width: 991px;
-           height: 57px;
+           height: 60px;
            margin: 0 auto;
            background-color: #404549;
 }
 
-.logo img  {background-color: #404549;
+.logo {background-color: #404549;
         float: left;
-        height: 57px;
+
         }
 
 
@@ -64,11 +63,11 @@
 
 .main-nav ul li { list-style: none;
                     display: inline-block;
-                    line-height: 57px;
+                    line-height: 55px;
                     color:#DADDDF ;
                     font-size: 11px;
                     width: 100px;
-                    height: 57px;
+                    height: 55px;
                     text-align: center;}
 
 .searchbar {/* Rectangle 1: */
